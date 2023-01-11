@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseph004full&show_icons=true&locale=en&layout=compact" alt="joseph004full" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph004full&show_icons=true&locale=en" alt="joseph004full" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdfuturistic&show_icons=true&locale=en" alt="jdfuturistic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseph004full&" alt="joseph004full" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdfuturistic&" alt="jdfuturistic" /></p>
