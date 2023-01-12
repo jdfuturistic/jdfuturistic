@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph004full&label=Profile%20views&color=0e75b6&style=flat" alt="joseph004full" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseph004full" alt="joseph004full" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdfuturistic" alt="jdfuturistic" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on [JUNIOR](https://appjunior.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://jdportfolio.vercel.app/](https://jdportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://jdportfolio.vercel.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
